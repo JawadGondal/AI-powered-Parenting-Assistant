@@ -67,3 +67,5 @@ This project aims to guide parents through their challenges by offering:
 
 - The curated response is presented back to the parent through the Gradio interface, providing them with actionable parenting advice, emotional support, and helpful resources, all in real-time.
 
+
+![alt text](output1.png)
