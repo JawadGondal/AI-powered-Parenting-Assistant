@@ -10,8 +10,8 @@ This project aims to guide parents through their challenges by offering:
 
 ## Key Features:
 1. 	**Input Options:**
-- Text Input: Parents can type out their concerns or situations.
-- Audio Input: Parents can record their concerns, and the system will convert the audio to text using speech-to-text models.
+  - Text Input: Parents can type out their concerns or situations.
+  - Audio Input: Parents can record their concerns, and the system will convert the audio to text using speech-to-text models.
 2.	Parenting Advice:
 •	The core functionality of the AI Assistant is to analyze the parent's input and provide practical and respectful parenting advice based on predefined NLP models.
 •	The advice is generated through a Recommendation Agent, which pulls information from an extensive knowledge base on respectful parenting principles.
